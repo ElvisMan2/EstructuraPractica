@@ -48,7 +48,7 @@ public class TestComplejo {
         }
         
         System.out.println("El módulo del primer número complejo es: " + complejo1.modulo());
-        System.out.println("El módulo del segundo número complejo es: " + complejo1.modulo());
+        System.out.println("El módulo del segundo número complejo es: " + complejo2.modulo());
 
         if (complejo1.esigual(complejo2)) {
             System.out.println("Los números complejos son iguales");
